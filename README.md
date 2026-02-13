@@ -10,6 +10,19 @@ The original README is in Japanese. English translation uses [Nani Translation](
 
 <img width="1920" height="1080" alt="mockou_sample_1" src="https://github.com/user-attachments/assets/06b98517-ca2b-4c02-9d45-e18c9f1bc5cb" />
 
+## Download ダウンロード
+
+The latest assets (v0.2) are available [here](https://github.com/NayukiMafuyu/mockou/tree/main/versions/v0.2). Currently, only SVG images are included.
+
+最新のアセット（v0.2）は[こちら](https://github.com/NayukiMafuyu/mockou/tree/main/versions/v0.2)です。現状は、SVG画像のみが含まれます。
+
+Mockou is available under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) license.
+
+Mockouのチェス駒セットは、[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)のライセンスのもと、ご利用いただけます。
+
+Please let me know if you have any requests or suggestions for improvement after using it! The author is not very knowledgeable about technical aspects, so it's difficult to predict what kind of issues might arise during use.
+
+使用してみて、要望や改善点などがありましたら、ぜひ教えてください！　作者はあまり技術面に明るくないため、使用時にどのような不具合が生じるか、予測するのが困難です。
 
 ## Pawn variations ポーンのバリエーション
 
